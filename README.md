@@ -4,7 +4,7 @@ A Tampermonkey script that allows scraping of PDF modules from [DepEd Tambayan](
 
 # Installation
 
-Follow the installation instructions [here](https://github.com/WhiteLicorice/Fake).
+Follow the installation instructions [here](https://github.com/WhiteLicorice/Fake?tab=readme-ov-file#installation).
 
 # Usage
 
