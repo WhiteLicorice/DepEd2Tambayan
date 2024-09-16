@@ -8,4 +8,4 @@ Follow the installation instructions [here](https://github.com/WhiteLicorice/Fak
 
 # Usage
 
-Jusut press the `download` button. 
+Just press the `download` button. 
